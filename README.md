@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 I'm a student with deep interests in electronics and computer science.
 
