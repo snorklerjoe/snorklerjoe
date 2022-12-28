@@ -16,3 +16,4 @@ A small handful of my projects are documented and/or published here, including:
 - [confocal-lsm](https://github.com/snorklerjoe/confocal-lsm)
 - [trebsim](https://github.com/snorklerjoe/trebsim)
 
+When I'm not tinkering with electronics or writing code, you can find me watching pond life 🦠 under a microscope or playing the organ 🎹.
