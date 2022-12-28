@@ -1,7 +1,5 @@
 ## Hello! 👋
 
-I'm a student with deep interests in electronics and computer science.
-
 A small handful of my projects are documented and/or published here, including:
 
 - [CubeServer](https://github.com/snorklerjoe/CubeServer), the software backbone of a high-school STEM competition I am helping to start.
