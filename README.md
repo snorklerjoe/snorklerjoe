@@ -6,7 +6,7 @@ A handful of my projects are documented and/or published here.
 - [CubeServer](https://github.com/snorklerjoe/CubeServer), the software backbone of a high-school STEM competition I am helping to start.
 
 🍳 The back-burner ...
-- [Designing a compact Arduino APRS radio transmitter](https://www.hosticlefifer.com/blog/?show=14)
+- [Designing a compact Arduino APRS radio transmitter](https://github.com/snorklerjoe/aprs-weather-station)
 - Maintaining [Hosticlefifer.com](https://www.hosticlefifer.com/blog), a website I wrote & host on a raspberry pi running Ubuntu Server
 
 🥘 The slightly-more-distant back-burner ...
