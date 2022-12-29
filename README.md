@@ -11,7 +11,7 @@ A handful of my projects are documented and/or published here.
 
 🥘 The slightly-more-distant back-burner ...
 - [confocal-lsm](https://github.com/snorklerjoe/confocal-lsm), the _laser-scanning confocal microscope_ I've been working on
-- [trebsim](https://github.com/snorklerjoe/trebsim), a MatLab trebuchet simulation
+- [trebsim](https://github.com/snorklerjoe/trebsim), a MATLAB trebuchet simulation
 
 When I'm not tinkering with electronics or writing code, you can find me watching pond life 🦠 under a microscope, playing the organ 🎵, or on the air with amateur radio!
 
