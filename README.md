@@ -13,4 +13,4 @@ A handful of my projects are documented and/or published here.
 - [confocal-lsm](https://github.com/snorklerjoe/confocal-lsm), the _laser-scanning confocal microscope_ I've been working on since 2017
 - [trebsim](https://github.com/snorklerjoe/trebsim)
 
-When I'm not tinkering with electronics or writing code, you can find me watching pond life 🦠 under a microscope or playing the organ 🎹.
+When I'm not tinkering with electronics or writing code, you can find me watching pond life 🦠 under a microscope or playing the organ! 🎵
