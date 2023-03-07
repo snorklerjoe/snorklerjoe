@@ -4,6 +4,7 @@ A handful of my projects are documented and/or published here.
 
 🔭 I’m currently working on ...
 - [CubeServer](https://github.com/snorklerjoe/CubeServer), the software backbone of a high-school STEM competition I am helping to start.
+- [rpi-mongo](https://github.com/snorklerjoe/rpi-mongo), scripts for making unofficial docker images of MongoDB to _bring MongoDB to Raspberry Pi computers_.
 
 🍳 The back-burner ...
 - [Designing a compact Arduino APRS radio transmitter](https://github.com/snorklerjoe/aprs-weather-station)
