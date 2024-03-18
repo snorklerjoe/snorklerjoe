@@ -1,14 +1,15 @@
-## Hello! 👋
+## Hello! 
+
+I deeply enjoy tinkering with electronics, and love getting into software projects as well. When the two can intersect, that's where I am doubly fascinated!
 
 A handful of my projects are documented and/or published here.
 
-🔭 A few things I've worked on...
-- [CubeServer](https://github.com/snorklerjoe/CubeServer), the software backbone of a high-school STEM competition
-- [Pixels Journal Data Processing](https://github.com/snorklerjoe/PixelsJournal-data-processing), an application for advanced data processing using data exported from Teo Vogel's "Pixel Journal" app
-- [rpi-mongo](https://github.com/snorklerjoe/rpi-mongo), scripts for making unofficial docker images of MongoDB to _bring MongoDB to Raspberry Pi computers_.
+### Current projects
+- Maintaining [Hosticlefifer.com](https://blog.hosticlefifer.com/), a website I wrote & host on a raspberry pi running Ubuntu Server
 
+### A few things I've worked on...
+- [CubeServer](https://github.com/snorklerjoe/CubeServer), the software backbone of a high-school STEM competition
 - [Designing a compact Arduino APRS radio transmitter](https://github.com/snorklerjoe/aprs-weather-station)
-- Maintaining [Hosticlefifer.com](https://www.hosticlefifer.com/blog), a website I wrote & host on a raspberry pi running Ubuntu Server
 
 - [confocal-lsm](https://github.com/snorklerjoe/confocal-lsm), a laser-scanning confocal microscope
 - [trebsim](https://github.com/snorklerjoe/trebsim), a MATLAB trebuchet simulation
