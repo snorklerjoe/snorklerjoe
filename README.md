@@ -6,16 +6,15 @@ When the two can intersect, that's where I am doubly fascinated!
 A handful of my projects are documented and/or published here.
 
 
-### Current projects
+### I'm currently working on...
 - Maintaining [Hosticlefifer.com](https://blog.hosticlefifer.com/), a website I wrote & host on a raspberry pi running Ubuntu Server
+<br>
 
-
-### A few things I've worked on...
+## A few of my more note-worthy projects:
 - [CubeServer](https://github.com/snorklerjoe/CubeServer), the software backbone of a high-school STEM competition
 - [Designing a compact Arduino APRS radio transmitter](https://github.com/snorklerjoe/aprs-weather-station)
 
 - [confocal-lsm](https://github.com/snorklerjoe/confocal-lsm), a laser-scanning confocal microscope
-- [trebsim](https://github.com/snorklerjoe/trebsim), a MATLAB trebuchet simulation
 
 <br>
 
