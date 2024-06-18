@@ -7,7 +7,7 @@ A handful of my projects are documented and/or published here.
 
 
 ### I'm currently working on...
-- Maintaining [Hosticlefifer.com](https://blog.hosticlefifer.com/), a website I wrote & host on a raspberry pi running Ubuntu Server
+- Creating software for a solar hot water control system: <https://github.com/snorklerjoe/pv-hot-water/>
 <br>
 
 ## A few of my more note-worthy projects:
