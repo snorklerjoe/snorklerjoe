@@ -1,6 +1,6 @@
 ### Hello! 
 
-I deeply enjoy tinkering with electronics, and love getting into software projects as well.  
+I enjoy tinkering with electronics, and love getting into software projects as well.  
 When the two can intersect, that's where I am doubly fascinated!
 
 A handful of my projects are documented and/or published here.
